@@ -1,0 +1,205 @@
+[
+{
+  "model": "cities.country",
+  "pk": 1,
+  "fields": {
+    "name": "Brazil"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 2,
+  "fields": {
+    "name": "Turkey"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 3,
+  "fields": {
+    "name": "Italy"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 4,
+  "fields": {
+    "name": "Bangladesh"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 5,
+  "fields": {
+    "name": "Canada"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 6,
+  "fields": {
+    "name": "France"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 7,
+  "fields": {
+    "name": "Peru"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 8,
+  "fields": {
+    "name": "Argentina"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 9,
+  "fields": {
+    "name": "Nigeria"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 10,
+  "fields": {
+    "name": "Australia"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 11,
+  "fields": {
+    "name": "Iran"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 12,
+  "fields": {
+    "name": "Singapore"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 13,
+  "fields": {
+    "name": "China"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 14,
+  "fields": {
+    "name": "Chile"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 15,
+  "fields": {
+    "name": "Thailand"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 16,
+  "fields": {
+    "name": "Germany"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 17,
+  "fields": {
+    "name": "Spain"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 18,
+  "fields": {
+    "name": "Philippines"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 19,
+  "fields": {
+    "name": "Indonesia"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 20,
+  "fields": {
+    "name": "United States"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 21,
+  "fields": {
+    "name": "South Korea"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 22,
+  "fields": {
+    "name": "Pakistan"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 23,
+  "fields": {
+    "name": "Angola"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 24,
+  "fields": {
+    "name": "Mexico"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 25,
+  "fields": {
+    "name": "India"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 26,
+  "fields": {
+    "name": "United Kingdom"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 27,
+  "fields": {
+    "name": "Colombia"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 28,
+  "fields": {
+    "name": "Japan"
+  }
+},
+{
+  "model": "cities.country",
+  "pk": 29,
+  "fields": {
+    "name": "Taiwan"
+  }
+}
+]

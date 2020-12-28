@@ -1,0 +1,758 @@
+[
+{
+  "model": "cities.city",
+  "pk": 13,
+  "fields": {
+    "name": "Tokyo",
+    "country": 28,
+    "population": 36923000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 14,
+  "fields": {
+    "name": "Shanghai",
+    "country": 13,
+    "population": 34000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 15,
+  "fields": {
+    "name": "Jakarta",
+    "country": 19,
+    "population": 30000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 16,
+  "fields": {
+    "name": "Seoul",
+    "country": 21,
+    "population": 25514000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 17,
+  "fields": {
+    "name": "Guangzhou",
+    "country": 13,
+    "population": 25000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 18,
+  "fields": {
+    "name": "Beijing",
+    "country": 13,
+    "population": 24900000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 19,
+  "fields": {
+    "name": "Karachi",
+    "country": 22,
+    "population": 24300000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 20,
+  "fields": {
+    "name": "Shenzhen",
+    "country": 13,
+    "population": 23300000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 21,
+  "fields": {
+    "name": "Delhi",
+    "country": 25,
+    "population": 21753486
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 22,
+  "fields": {
+    "name": "Mexico City",
+    "country": 24,
+    "population": 21339781
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 23,
+  "fields": {
+    "name": "Lagos",
+    "country": 9,
+    "population": 21000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 24,
+  "fields": {
+    "name": "São Paulo",
+    "country": 1,
+    "population": 20935204
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 25,
+  "fields": {
+    "name": "Mumbai",
+    "country": 25,
+    "population": 20748395
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 26,
+  "fields": {
+    "name": "New York City",
+    "country": 20,
+    "population": 20092883
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 27,
+  "fields": {
+    "name": "Osaka",
+    "country": 28,
+    "population": 19342000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 28,
+  "fields": {
+    "name": "Wuhan",
+    "country": 13,
+    "population": 19000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 29,
+  "fields": {
+    "name": "Chengdu",
+    "country": 13,
+    "population": 18100000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 30,
+  "fields": {
+    "name": "Dhaka",
+    "country": 4,
+    "population": 17151925
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 31,
+  "fields": {
+    "name": "Chongqing",
+    "country": 13,
+    "population": 17000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 32,
+  "fields": {
+    "name": "Tianjin",
+    "country": 13,
+    "population": 15400000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 33,
+  "fields": {
+    "name": "Kolkata",
+    "country": 25,
+    "population": 14617882
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 34,
+  "fields": {
+    "name": "Tehran",
+    "country": 11,
+    "population": 14595904
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 35,
+  "fields": {
+    "name": "Istanbul",
+    "country": 2,
+    "population": 14377018
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 36,
+  "fields": {
+    "name": "London",
+    "country": 26,
+    "population": 14031830
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 37,
+  "fields": {
+    "name": "Hangzhou",
+    "country": 13,
+    "population": 13400000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 38,
+  "fields": {
+    "name": "Los Angeles",
+    "country": 20,
+    "population": 13262220
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 39,
+  "fields": {
+    "name": "Buenos Aires",
+    "country": 8,
+    "population": 13074000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 40,
+  "fields": {
+    "name": "Xi'an",
+    "country": 13,
+    "population": 12900000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 41,
+  "fields": {
+    "name": "Paris",
+    "country": 6,
+    "population": 12405426
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 42,
+  "fields": {
+    "name": "Changzhou",
+    "country": 13,
+    "population": 12400000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 43,
+  "fields": {
+    "name": "Shantou",
+    "country": 13,
+    "population": 12000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 44,
+  "fields": {
+    "name": "Rio de Janeiro",
+    "country": 1,
+    "population": 11973505
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 45,
+  "fields": {
+    "name": "Manila",
+    "country": 18,
+    "population": 11855975
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 46,
+  "fields": {
+    "name": "Nanjing",
+    "country": 13,
+    "population": 11700000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 47,
+  "fields": {
+    "name": "Rhine-Ruhr",
+    "country": 16,
+    "population": 11470000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 48,
+  "fields": {
+    "name": "Jinan",
+    "country": 13,
+    "population": 11000000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 49,
+  "fields": {
+    "name": "Bangalore",
+    "country": 25,
+    "population": 10576167
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 50,
+  "fields": {
+    "name": "Harbin",
+    "country": 13,
+    "population": 10500000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 51,
+  "fields": {
+    "name": "Lima",
+    "country": 7,
+    "population": 9886647
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 52,
+  "fields": {
+    "name": "Zhengzhou",
+    "country": 13,
+    "population": 9700000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 53,
+  "fields": {
+    "name": "Qingdao",
+    "country": 13,
+    "population": 9600000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 54,
+  "fields": {
+    "name": "Chicago",
+    "country": 20,
+    "population": 9554598
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 55,
+  "fields": {
+    "name": "Nagoya",
+    "country": 28,
+    "population": 9107000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 56,
+  "fields": {
+    "name": "Chennai",
+    "country": 25,
+    "population": 8917749
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 57,
+  "fields": {
+    "name": "Bangkok",
+    "country": 15,
+    "population": 8305218
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 58,
+  "fields": {
+    "name": "Bogotá",
+    "country": 27,
+    "population": 7878783
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 59,
+  "fields": {
+    "name": "Hyderabad",
+    "country": 25,
+    "population": 7749334
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 60,
+  "fields": {
+    "name": "Shenyang",
+    "country": 13,
+    "population": 7700000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 61,
+  "fields": {
+    "name": "Wenzhou",
+    "country": 13,
+    "population": 7600000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 62,
+  "fields": {
+    "name": "Nanchang",
+    "country": 13,
+    "population": 7400000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 63,
+  "fields": {
+    "name": "Hong Kong",
+    "country": 13,
+    "population": 7298600
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 64,
+  "fields": {
+    "name": "Taipei",
+    "country": 29,
+    "population": 7045488
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 65,
+  "fields": {
+    "name": "Dallas–Fort Worth",
+    "country": 20,
+    "population": 6954330
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 66,
+  "fields": {
+    "name": "Santiago",
+    "country": 14,
+    "population": 6683852
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 67,
+  "fields": {
+    "name": "Luanda",
+    "country": 23,
+    "population": 6542944
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 68,
+  "fields": {
+    "name": "Houston",
+    "country": 20,
+    "population": 6490180
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 69,
+  "fields": {
+    "name": "Madrid",
+    "country": 17,
+    "population": 6378297
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 70,
+  "fields": {
+    "name": "Ahmedabad",
+    "country": 25,
+    "population": 6352254
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 71,
+  "fields": {
+    "name": "Toronto",
+    "country": 5,
+    "population": 6055724
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 72,
+  "fields": {
+    "name": "Philadelphia",
+    "country": 20,
+    "population": 6051170
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 73,
+  "fields": {
+    "name": "Washington, D.C.",
+    "country": 20,
+    "population": 6033737
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 74,
+  "fields": {
+    "name": "Miami",
+    "country": 20,
+    "population": 5929819
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 75,
+  "fields": {
+    "name": "Belo Horizonte",
+    "country": 1,
+    "population": 5767414
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 76,
+  "fields": {
+    "name": "Atlanta",
+    "country": 20,
+    "population": 5614323
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 77,
+  "fields": {
+    "name": "Singapore",
+    "country": 12,
+    "population": 5535000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 78,
+  "fields": {
+    "name": "Barcelona",
+    "country": 17,
+    "population": 5445616
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 79,
+  "fields": {
+    "name": "Munich",
+    "country": 16,
+    "population": 5203738
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 80,
+  "fields": {
+    "name": "Stuttgart",
+    "country": 16,
+    "population": 5200000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 81,
+  "fields": {
+    "name": "Ankara",
+    "country": 2,
+    "population": 5150072
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 82,
+  "fields": {
+    "name": "Hamburg",
+    "country": 16,
+    "population": 5100000
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 83,
+  "fields": {
+    "name": "Pune",
+    "country": 25,
+    "population": 5049968
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 84,
+  "fields": {
+    "name": "Berlin",
+    "country": 16,
+    "population": 5005216
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 85,
+  "fields": {
+    "name": "Guadalajara",
+    "country": 24,
+    "population": 4796050
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 86,
+  "fields": {
+    "name": "Boston",
+    "country": 20,
+    "population": 4732161
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 87,
+  "fields": {
+    "name": "Sydney",
+    "country": 10,
+    "population": 5000500
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 88,
+  "fields": {
+    "name": "San Francisco",
+    "country": 20,
+    "population": 4594060
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 89,
+  "fields": {
+    "name": "Surat",
+    "country": 25,
+    "population": 4585367
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 90,
+  "fields": {
+    "name": "Phoenix",
+    "country": 20,
+    "population": 4489109
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 91,
+  "fields": {
+    "name": "Monterrey",
+    "country": 24,
+    "population": 4477614
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 92,
+  "fields": {
+    "name": "Inland Empire",
+    "country": 20,
+    "population": 4441890
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 93,
+  "fields": {
+    "name": "Rome",
+    "country": 3,
+    "population": 4321244
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 94,
+  "fields": {
+    "name": "Detroit",
+    "country": 20,
+    "population": 4296611
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 95,
+  "fields": {
+    "name": "Milan",
+    "country": 3,
+    "population": 4267946
+  }
+},
+{
+  "model": "cities.city",
+  "pk": 96,
+  "fields": {
+    "name": "Melbourne",
+    "country": 10,
+    "population": 4650000
+  }
+}
+]

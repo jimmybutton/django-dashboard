@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div>
+  <canvas id="population-chart" data-url="{% url 'population-chart' %}">
+  </canvas>
+</div>
+<div>
+  <canvas id="city-chart" data-url="{% url 'city-chart' %}?limit=10">
+  </canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+<script>
+
+  
+  function drawChart(myCanvas, title) {
+    var url = myCanvas.dataset.url
+    
+    fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      // console.log(data)
+      var myChart = new Chart(myCanvas, {
+        type: 'bar',
+        data: {
+          labels: data.labels,
+          datasets: [{
+            label: 'Population',
+            backgroundColor: 'blue',
+            data: data.data,
+          }]
+        },
+        options: {
+          title: {
+            display: true,
+            text: title,
+          }
+        }
+      });
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+  }
+  
+  var populationChart = document.getElementById('population-chart');
+  var cityChart = document.getElementById('city-chart');
+
+  drawChart(populationChart, 'Population Bar Chart');
+  drawChart(cityChart, 'City Bar Chart');
+  
+</script>
+{% endblock %}
